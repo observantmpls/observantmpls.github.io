@@ -1,15 +1,14 @@
 body {
-  	font-family: "Michroma", sans-serif;
-  	font-weight: 400;
-  	font-style: normal;
-	color: rgb(170, 134, 17);
+  	font-family: "Alumni Sans Pinstripe", sans-serif;
+	font-size: 1.25em;
+	color: white;
 	background-color: black;
 }
 
 main {
   margin: 0;
   position: absolute;
-  top: 50%;
+  top: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -18,11 +17,11 @@ h1 {
 	text-align: center;
 }
 
-#title {
-	margin-bottom: 1em;
+.logo {
+	width: 300px;
 }
 
-hr {
+/* hr {
 	width: 600px;
-	color: rgb(178, 141, 20);
-}
+	color: white;
+} */
